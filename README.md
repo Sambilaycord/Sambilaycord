@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Sambilaycord/Sambilaycord/blob/main/profile.gif">
+</p>
+
 ## Hi there 👋
 
 <!--
