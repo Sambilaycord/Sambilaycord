@@ -40,6 +40,8 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=Sambilaycord&limit=5&theme=solarized-light&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
 </div>
 
+<br><br>
+
 <div align="center">
   <img src="https://github.com/Sambilaycord/Sambilaycord/blob/main/maxwell.gif"><br>
   <h3><i>
