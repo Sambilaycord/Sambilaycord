@@ -42,6 +42,10 @@
 
 <div align="center">
   <img src="https://github.com/Sambilaycord/Sambilaycord/blob/main/maxwell.gif"><br>
+  <h3><i>
+    "Most opportunities are created by luck. It takes skills to grasp those opportunities and turn it into success." <br>
+    —Technoblade
+  </i></h3>
 </div>
 
 
