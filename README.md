@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Sambilaycord/Sambilaycord/blob/main/profile.gif">
+  <img src="https://github.com/Sambilaycord/Sambilaycord/blob/main/computer.gif">
 </p>
 
 ## Hi there 👋
