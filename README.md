@@ -2,7 +2,12 @@
   <img src="https://github.com/Sambilaycord/Sambilaycord/blob/main/computer.gif">
 </p>
 
-## Hi there 👋
+<div align="center">
+  <h2>✨ Welcome to My Profile, I'm Krystal! ✨</h2>
+  <i>"Stay curious!"</i>
+</div>
+
+
 
 <!--
 **Sambilaycord/Sambilaycord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
