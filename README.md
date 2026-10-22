@@ -69,33 +69,6 @@
 <h2>🚀 What I've Been Building</h2>
 </div>
 
-**At Zen Companies**
-
-| Project | What it is | My part |
-| --- | --- | --- |
-| 🎬 **The Content Lab** | Video production platform | Discovery-call booking with email verification, role-based sign-in, WebGL homepage rebuild |
-| 📊 **Zenalytics** | Analytics and customer hub | Led the kickoff from brief to PRD to first sprint; sign-in redesign and theme toggle |
-| ⛵ **Zen Marine Charters** | Booking site, portal and invoicing | Booking flow with Stripe Checkout, light/dark palettes, customer portal, mobile invoice builder |
-| 🎯 **Zen Intent** | B2B lead generation | Technical PM: requirements, sprint tickets, PR review, staging QA, GitHub Actions ↔ Notion sync |
-| 🖼️ **ViralTube Exploder** | AI thumbnail and title generator | Technical PM: sprint planning, acceptance criteria, code review, staging QA |
-| ⏰ **Zenith** | HR system | Rebuilt attendance, made the clock trustworthy, Slack integrations, trimmed 131 kB off the entry chunk |
-
-**Before Zen**
-
-| Project | What it is | Links |
-| --- | --- | --- |
-| 🌸 **Edelweiss** | Flower-shop marketplace for Northern Mindanao | [Visit the shop](https://sambilaycord.github.io/Edelweiss-Web/) · [Read the code](https://github.com/Sambilaycord/Edelweiss-Web) |
-
-<br>
-
-<div align="center">
-<h2>🧭 Journey</h2>
-</div>
-
-- **Now** — Software Developer, **Zen Companies PH** · _six products and counting_
-- **June – July 2025** — Intern, **MeldCX Philippines** · _first real codebase: from Figma to shipped React_
-- **2023 – 2024** — Founding Treasurer, **Computer Science Student Society (CS³), USTP** · _Gold Unit Organization Award, in our first year_
-
 <br>
 
 <div align="center">
