@@ -4,9 +4,9 @@
 
 <div align="center">
   <h2>👋 Welcome, I'm Sambilaycord _(:зゝ∠)_ </h2>
-  <br>🛠️ Full-stack Developer| Technical Project Management</p>
+  <h2>🛠️ Full-stack Developer | Technical Project Management</h2>
   <br>
-  <p><i>I like owning a product end to end, from the client's first call to the database row to the hover state.</i></p>
+  <h3><i>I like owning a product end to end, from the client's first call to the database row to the hover state.</i></h3>
   <br>
 </div>
 
@@ -63,23 +63,6 @@
   <img src="https://img.shields.io/badge/claude%20code-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code">
 </div>
 <br><br>
-
-<div align="center">
-<h2>🚀 What I've Been Building</h2>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambilaycord&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-  <br><br>
-</div>
-
-<div align="center">
-<h2>📫 Say Hello</h2>
-  <a href="mailto:bacalso.krystal707@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/krystal-bacalso/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</div>
 
 <br><br>
 
