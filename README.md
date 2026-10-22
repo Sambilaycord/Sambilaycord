@@ -4,8 +4,7 @@
 
 <div align="center">
   <h2>👋 Welcome, I'm Sambilaycord _(:зゝ∠)_ </h2>
-  <p>💻 Software Developer @ Zen Companies PH | 📍 the Philippines
-  <br>🛠️ Full-stack | Technical Project Management</p>
+  <br>🛠️ Full-stack Developer| Technical Project Management</p>
   <br>
   <p><i>I like owning a product end to end, from the client's first call to the database row to the hover state.</i></p>
   <br>
